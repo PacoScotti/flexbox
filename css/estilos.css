@@ -1,0 +1,14 @@
+.contenedor {display: flex;justify-content: space-between; flex-direction: row-reverse;height:300px; }
+.item {width: 20%;margin: 5px;background-color: blueviolet; }
+
+.contenedor2 {display: flex;flex-wrap: wrap; align-items: baseline;}
+.item2 {background-color: blueviolet;width: 30%;margin: 5px;padding: 3px;}
+
+.contenedor3 {display: flex; flex-wrap: wrap; justify-content: space-between;}
+.item3 {background-color: blueviolet;width: 32%;margin: 5px 0;padding: 3px; height: 150px;}
+.item4 {background-color: blueviolet;width: 49%;margin: 5px 0;padding: 3px; height: 150px;}
+
+.contenedor4 {display: flex; justify-content: center;}
+.img {}
+
+.sig {display: flex;margin: 10px; justify-content: end;}
